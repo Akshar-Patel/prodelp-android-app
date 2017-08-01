@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/add_pdactivity_fragment"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/pdactivity_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/add_pdactivity_name_edittext_hint"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:textColor="@color/material_blue_grey_800"
+        android:textSize="34sp" />
+
+    <TextView
+        android:id="@+id/pdactivity_start_time_header_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/pdactivity_name_edittext"
+        android:layout_marginTop="16dp"
+        android:text="@string/add_pdactivity_start_time_header"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/pdactivity_start_time_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@id/pdactivity_start_time_header_textview"
+        android:text="@string/add_pdactivity_start_time_button"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/pdactivity_end_time_header_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/add_pdactivity_end_time_header"
+        android:layout_below="@id/pdactivity_start_time_button"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="false" />
+
+    <Button
+        android:id="@+id/pdactivity_end_time_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/pdactivity_end_time_header_textview"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/add_pdactivity_end_time_button"
+        android:textSize="18sp" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notify before"
+        android:layout_marginTop="20dp"
+        android:id="@+id/notify_checkbox"
+        android:layout_below="@+id/pdactivity_end_time_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:checked="false"
+        android:textSize="16dp" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5 minutes"
+        android:id="@+id/notify_time_button"
+        android:layout_alignTop="@+id/notify_checkbox"
+        android:layout_toRightOf="@+id/notify_checkbox"
+        android:layout_toEndOf="@+id/notify_checkbox"
+        android:layout_alignBaseline="@+id/notify_checkbox"
+        android:enabled="false" />
+
+</RelativeLayout>
+</ScrollView>
+<!-- From: file:/home/akshar/Projects/Prodelp/app/src/main/res/layout/pdactivity_add_pdactivity_fragment.xml -->

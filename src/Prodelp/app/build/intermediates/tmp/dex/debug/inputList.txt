@@ -1,0 +1,15 @@
+/home/akshar/Projects/Prodelp/app/build/intermediates/classes/debug
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-0c13e3f68e4e93e2d18b92450b2c0ac45fb9cd24.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-71ce16d480e2a29e456208b80a1548cbc72ff873.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-707e225749d4df752ec2347731d809d5805df75a.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-0b8be818988b0f929bfeb0fc5d384c9c78dc36db.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-c6723c895971be283bbb7c399854e609dbdf7bc0.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-728476b7adf8a58614ef4b9fca86e775e55f6e01.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/library-2.4.0-74c4f300b2769308eb41a65b8ad5a786c7e1c784.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-b93069a9634b947393068cd74bfccf460a9d466a.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-511707d6d041b60ead86a2bcba448989ed88e520.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-052752a466dd4a70981ba41e1d67c174b12156c5.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-b56c77c2b1bf7fb9140887f34620a6fc966c1b05.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.1.0-3389a6123dcc0ad7ebee7fb939bc9b50aa514703.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-5c7741de6501baf17a5abdc5880328bc7a81546d.jar
+/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-6c94bf5ee374ee23f1fc17b36e029bec0a927786.jar

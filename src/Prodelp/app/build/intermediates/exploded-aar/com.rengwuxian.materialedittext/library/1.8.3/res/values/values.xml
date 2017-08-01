@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialEditText"><attr format="color" name="baseColor"/><attr format="color" name="primaryColor"/><attr name="floatingLabel"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="highlight" value="2"/></attr><attr format="color" name="errorColor"/><attr format="integer" name="minCharacters"/><attr format="integer" name="maxCharacters"/><attr format="boolean" name="singleLineEllipsis"/><attr format="integer" name="minBottomTextLines"/><attr format="string" name="helperText"/><attr format="color" name="helperTextColor"/><attr format="string" name="accentTypeface"/><attr format="string" name="typeface"/><attr format="string" name="floatingLabelText"/><attr format="dimension" name="floatingLabelSpacing"/><attr format="boolean" name="hideUnderline"/><attr format="boolean" name="autoValidate"/><attr format="reference" name="iconLeft"/><attr format="reference" name="iconRight"/><attr format="dimension" name="iconPadding"/><attr format="dimension" name="floatingLabelTextSize"/><attr format="dimension" name="bottomTextSize"/><attr format="boolean" name="floatingLabelAlwaysShown"/><attr format="boolean" name="helperTextAlwaysShown"/></declare-styleable>
+    <!-- From: file:/Users/rengwuxian/projects/MaterialEditText/library/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bottom_ellipsis_height">4dp</dimen>
+    <dimen name="bottom_text_size">12sp</dimen>
+    <dimen name="default_padding_bottom">8dp</dimen>
+    <dimen name="default_padding_top">8dp</dimen>
+    <dimen name="floating_label_text_size">12sp</dimen>
+    <dimen name="inner_components_spacing">8dp</dimen>
+    <dimen name="inner_padding_left">0dp</dimen>
+    <dimen name="inner_padding_right">0dp</dimen>
+</resources>

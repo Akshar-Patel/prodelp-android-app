@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Prodelp</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string-array name="drawer_list">
+        <item>Routines</item>
+        <item>Goals</item>
+        <item>Review</item>
+        <item>Progress</item>
+    </string-array>
+
+    <string name="title_activity_main">Prodelp</string>
+
+    <string name="add_pdroutine_activity_title">Add New Routine</string>
+    <string name="add_pdroutine_name_edittext_hint">Routine Name</string>
+    <string name="add_pdroutine_start_date_header">Start Date</string>
+    <string name="add_pdroutine_start_date_button">Choose Start Date</string>
+    <string name="add_pdroutine_end_date_header">End Date</string>
+    <string name="add_pdroutine_end_date_button">Choose End Date</string>
+    <string name="edit_pdroutine_activity_title">Edit Routine</string>
+
+    <string name="pdactivity_list_activity_title">Activities</string>
+    <string name="add_pdactivity_activity_title">Add New Activity</string>
+    <string name="add_pdactivity_name_edittext_hint">Activity Name</string>
+    <string name="add_pdactivity_start_time_header">Start Time</string>
+    <string name="add_pdactivity_start_time_button">Choose Start Time</string>
+    <string name="add_pdactivity_end_time_header">End Time</string>
+    <string name="add_pdactivity_end_time_button">Choose End Time</string>
+    <string name="edit_pdactivity_activity_title">Edit Activity</string>
+
+    <string name="add_pdgoal_activity_title">Add New Goal</string>
+    <string name="add_pdgoal_name_edittext_hint">Goal Name</string>
+    <string name="add_pdgoal_due_date_header">Due Date</string>
+    <string name="add_pdgoal_due_date_button">Choose Due Date</string>
+    <string name="add_pdgoal_pdactivity_header">Activity</string>
+    <string name="add_pdgoal_pdactivity_button">Choose Activity</string>
+    <string name="edit_pdgoal_activity_title">Edit Goal</string>
+    
+    <string name="pdreview_pdactivity_button">Activities</string>
+    <string name="pdreview_pdgoal_button">Goals</string>
+    <string name="title_activity_add_pdgoal">Add New Goal</string>
+    <string name="title_activity_more_recommendations">More Recommendations</string>
+
+</resources>

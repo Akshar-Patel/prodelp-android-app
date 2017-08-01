@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/add_pdroutine_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/pdroutine_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:hint="@string/add_pdroutine_name_edittext_hint"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:textColor="@color/material_blue_grey_800"
+        android:textSize="34sp" />
+
+    <TextView
+        android:id="@+id/pdroutine_start_date_header_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pdroutine_name_edittext"
+        android:layout_marginTop="20dp"
+        android:text="@string/add_pdroutine_start_date_header"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/pdroutine_start_date_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pdroutine_start_date_header_textview"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/add_pdroutine_start_date_button"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/pdroutine_end_date_header_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pdroutine_start_date_button"
+        android:layout_marginTop="16dp"
+        android:text="@string/add_pdroutine_end_date_header"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="false" />
+
+    <Button
+        android:id="@+id/pdroutine_end_date_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pdroutine_end_date_header_textview"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/add_pdroutine_end_date_button"
+        android:textSize="18sp" />
+
+
+
+    <!--  <CheckBox
+          android:id="@+id/checkBox4"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center_horizontal|left"
+          android:layout_marginTop="@dimen/activity_vertical_margin"
+          android:checked="false"
+          android:text="Notify on start of each activity"
+          android:textSize="@dimen/abc_text_size_medium_material" />
+
+
+      <CheckBox
+          android:id="@+id/checkBox5"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="@dimen/activity_vertical_margin"
+          android:checked="false"
+          android:text="Play notification sound"
+          android:textSize="@dimen/abc_text_size_medium_material" />
+  -->
+
+    <!-- <include
+         android:id="@+id/autorecommend"
+         layout="@layout/autorecommend_view"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentStart="true"
+         android:layout_alignRight="@+id/pdroutine_end_date_button"
+         android:layout_alignEnd="@+id/pdroutine_end_date_button" />-->
+
+
+</RelativeLayout>
+

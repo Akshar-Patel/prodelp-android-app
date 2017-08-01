@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pdreview_pdactivity_button"
+            android:background="@color/primary_dark"
+            android:layout_weight="1"
+            android:id="@+id/pdreview_pdactivity_button"
+            android:textColor="@color/white" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pdreview_pdgoal_button"
+            android:background="@color/primary"
+            android:layout_weight="1"
+            android:id="@+id/pdreview_pdgoal_button"
+            android:textColor="@color/white" />
+    </LinearLayout>
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#000000"
+        android:layout_weight="1"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="#000000"
+            android:layout_weight="1"/>
+        </LinearLayout> -->
+    <FrameLayout
+        android:id="@+id/pdreview_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    </FrameLayout>
+</LinearLayout>

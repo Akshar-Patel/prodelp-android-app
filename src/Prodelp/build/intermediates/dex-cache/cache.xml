@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/akshar/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.0/ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474/MPAndroidChart-v2.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.1.0-3389a6123dcc0ad7ebee7fb939bc9b50aa514703.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-707e225749d4df752ec2347731d809d5805df75a.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-511707d6d041b60ead86a2bcba448989ed88e520.jar" />
+    </item>
+    <item
+        jar="/home/akshar/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.1/1eb6690b0c629d7000c77a72df5e822fb974f521/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1eb6690b0c629d7000c77a72df5e822fb974f521">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-b56c77c2b1bf7fb9140887f34620a6fc966c1b05.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae24ad61a573cd1faf8261f5ec6d8f0cb58ddaad">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-728476b7adf8a58614ef4b9fca86e775e55f6e01.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-71ce16d480e2a29e456208b80a1548cbc72ff873.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-71ce16d480e2a29e456208b80a1548cbc72ff873.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.github.lecho/hellocharts-android/v1.5.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b7769e1fa6fc58883adada1b705e18515aed6ebf">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-b93069a9634b947393068cd74bfccf460a9d466a.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-707e225749d4df752ec2347731d809d5805df75a.jar" />
+    </item>
+    <item
+        jar="/home/akshar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/library-2.4.0-74c4f300b2769308eb41a65b8ad5a786c7e1c784.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.8.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="516ac6ca1d257cf5a1d95184b2ca21234f59c885">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-c6723c895971be283bbb7c399854e609dbdf7bc0.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-052752a466dd4a70981ba41e1d67c174b12156c5.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.8.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="516ac6ca1d257cf5a1d95184b2ca21234f59c885">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-c6723c895971be283bbb7c399854e609dbdf7bc0.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ae24ad61a573cd1faf8261f5ec6d8f0cb58ddaad">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-728476b7adf8a58614ef4b9fca86e775e55f6e01.jar" />
+    </item>
+    <item
+        jar="/home/akshar/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.1/1eb6690b0c629d7000c77a72df5e822fb974f521/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1eb6690b0c629d7000c77a72df5e822fb974f521">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-b56c77c2b1bf7fb9140887f34620a6fc966c1b05.jar" />
+    </item>
+    <item
+        jar="/home/akshar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/library-2.4.0-74c4f300b2769308eb41a65b8ad5a786c7e1c784.jar" />
+    </item>
+    <item
+        jar="/home/akshar/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.0/ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474/MPAndroidChart-v2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.1.0-3389a6123dcc0ad7ebee7fb939bc9b50aa514703.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Installed/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-0c13e3f68e4e93e2d18b92450b2c0ac45fb9cd24.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="21b7e1533326a38d45ea24d04c6acfcbf8ea33af">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-0b8be818988b0f929bfeb0fc5d384c9c78dc36db.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="21b7e1533326a38d45ea24d04c6acfcbf8ea33af">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-0b8be818988b0f929bfeb0fc5d384c9c78dc36db.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-5c7741de6501baf17a5abdc5880328bc7a81546d.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-6c94bf5ee374ee23f1fc17b36e029bec0a927786.jar" />
+    </item>
+    <item
+        jar="/home/akshar/Projects/Prodelp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/akshar/Projects/Prodelp/app/build/intermediates/pre-dexed/debug/classes-052752a466dd4a70981ba41e1d67c174b12156c5.jar" />
+    </item>
+
+</items>

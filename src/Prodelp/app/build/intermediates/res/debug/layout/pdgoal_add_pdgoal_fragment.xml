@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/add_pdgoal_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/pdgoal_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/add_pdgoal_name_edittext_hint"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:textColor="@color/material_blue_grey_800"
+        android:textSize="34sp" />
+
+    <TextView
+        android:layout_below="@id/pdgoal_name_edittext"
+        android:id="@+id/pdgoal_due_date_header_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/add_pdgoal_due_date_header"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:layout_below="@id/pdgoal_due_date_header_textview"
+        android:id="@+id/pdgoal_due_date_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/add_pdgoal_due_date_button"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_below="@id/pdgoal_due_date_button"
+        android:id="@+id/pdgoal_pdactivity_header_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:text="@string/add_pdgoal_pdactivity_header"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="false" />
+
+    <Button
+        android:layout_below="@id/pdgoal_pdactivity_header_textview"
+        android:id="@+id/pdgoal_pdactivity_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/add_pdgoal_pdactivity_button"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_below="@id/pdgoal_pdactivity_button"
+        android:id="@+id/pdgoal_pdactivityid_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:visibility="gone"/>
+
+</RelativeLayout>
+
+<!-- From: file:/home/akshar/Projects/Prodelp/app/src/main/res/layout/pdgoal_add_pdgoal_fragment.xml -->
