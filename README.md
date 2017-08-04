@@ -7,7 +7,7 @@
 * Platform: Android 4.0+
 * Modules: Routines, Goals, Review, Progress
 * Lines of Code:  24058
-* Month-Year: MAY-2015
+* Duration: 4 Months (FEB 2015 - MAY 2015)
 
 ### Screenshots
 
