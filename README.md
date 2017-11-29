@@ -2,7 +2,8 @@
 ### An Android app for creating a routine consisting of activities that we do throughout the day. At the end of the day, we review the activities and see how many of them we have completed.
 
 
-* Technologies: Java, XML, SQLite, Content Providers, Loader, Notifications
+* Technologies: Java, XML, SQLite
+* Platform Features: Content Provider, Loader, Notification, Shared Preferences  
 * Tools and OS : Android Studio, Ubuntu
 * Platform: Android 4.0+
 * Modules: Routines, Goals, Review, Progress
